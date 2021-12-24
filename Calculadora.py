@@ -53,3 +53,5 @@ while True:
 	if Result == "10.0":
 		print("Bienvenido")
 		sg.Popup("Bienvenido", keep_on_top=True)
+		
+#If the result is equal to 10, the calculator will give an easter egg.
